@@ -20,6 +20,8 @@ body {
 
 .header nav {
     float: right;
+    color: dark orangered;
+    
 
 }
 
@@ -28,6 +30,10 @@ body {
     grid-template-columns: repeat(6,1fr);
     grid-auto-rows: 100px 300px;
     grid-gap: 10px;
+
+    .gallery-item{
+        width
+    }
 
 
 }
