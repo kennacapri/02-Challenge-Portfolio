@@ -54,14 +54,20 @@ a:hover {
 
 .container{
     display:grid;
-    width: 300px;
-    height:350px;
+    min-width:300px;
+    min-height:350px;
     border: 2px;
+    flex-wrap: wrap;
+    position: relative;
+    text-align: center;
+    border: 10px solid orange;
 }
 
-.container div {
+
+
+/* .container div {
     flex: 1;
-}
+} */
 
 img {
     display:block
