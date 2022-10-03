@@ -19,3 +19,4 @@ See LICENSE in the repo.
 ## url and screenshot
 https://kennacapri.github.io/02-Challenge-Portfolio/
 
+<img width="908" alt="Screen Shot 2022-10-03 at 4 21 38 PM" src="https://user-images.githubusercontent.com/111388055/193696857-29e5db9e-1915-4904-b662-b61664c1cb71.png">
