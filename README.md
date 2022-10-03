@@ -17,3 +17,5 @@ See LICENSE in the repo.
 
 
 ## url and screenshot
+https://kennacapri.github.io/02-Challenge-Portfolio/
+
